@@ -13,4 +13,10 @@ class FirstComposerPack{
     public function first(){
         echo "Hello Composer!";
     }
+
+
+    public function second(string $str): string 
+    {
+        return $str;
+    }
 }

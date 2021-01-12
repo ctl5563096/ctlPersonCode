@@ -1,0 +1,24 @@
+{
+    "name": "ctl/ctl-code",
+    "description": "This a code for chentulin composer",
+    "type": "library",
+    "keywords": [  
+        "ctl"
+      ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shy",
+            "email": "chentulin@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ctl\\First\\": "src/Ctl/First"
+        }
+    }
+}

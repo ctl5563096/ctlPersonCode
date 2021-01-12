@@ -1,9 +1,9 @@
 {
-    "name": "ctl/ctl-code",
+    "name": "chentulin/ctl-code",
     "description": "This a code for chentulin composer",
     "type": "library",
     "keywords": [  
-        "ctl"
+        "chentulin"
       ],
     "license": "MIT",
     "authors": [

@@ -18,7 +18,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Ctl\\First\\": "src/Ctl/First"
+            "Ctl\\First\\": "src/Ctl/First",
+            "Ctl\\Helper\\": "src/Ctl/Helper"
         }
     }
 }
